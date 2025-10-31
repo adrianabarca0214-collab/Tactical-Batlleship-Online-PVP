@@ -1,0 +1,5 @@
+{
+  "name": "BattleshipTactics: Turnbased Backup",
+  "description": "A multiplayer Battleship game with skills",
+  "requestFramePermissions": []
+}
